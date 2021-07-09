@@ -1,6 +1,6 @@
 <?php
 session_start();
-var_dump($_SESSION['keranjang']);
+//var_dump($_SESSION['keranjang']);
 //koneksi ke database
 include('koneksi.php');
 //jika keranjang kosong
